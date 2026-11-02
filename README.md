@@ -1,5 +1,14 @@
 # Codex Thinking Toolkit — Română
 
+## Variante cloud: Claude și ChatGPT
+
+| Platformă | Configurare | Pachet de încărcat |
+|---|---|---|
+| Claude cloud / Claude Code | [Ghid Claude](adapters/claude/README.md) | [thinking-toolkit-ro.zip](https://github.com/bogdan1993/codex-thinking-toolkit/raw/refs/heads/main/adapters/claude/thinking-toolkit-ro.zip) |
+| ChatGPT Cloud Projects | [Ghid ChatGPT](adapters/chatgpt/README.md) | [Pachet ChatGPT](https://github.com/bogdan1993/codex-thinking-toolkit/raw/refs/heads/main/adapters/chatgpt/thinking-toolkit-ro-chatgpt.zip) |
+
+În Claude ai un skill cu 20 de moduri documentate. În ChatGPT ai instrucțiuni de proiect și biblioteca de comenzi încărcată. Pachetele cloud sunt separate de instalatorul local Codex. Citește ghidul înainte de upload; încărcarea întregului repository nu înseamnă instalare. Comportamentul în conturi reale nu a fost testat.
+
 **20 de skill-uri combinabile pentru cercetare, gândire critică, decizii, planificare și comunicare.** Fiecare comandă poate fi folosită separat sau împreună cu cele relevante pentru sarcină.
 
 [Ediția în engleză](https://github.com/bogdan1993/codex-thinking-toolkit-en). Creat de **Bogdan Pădurariu împreună cu Codex**. Licență MIT. Proiect independent, fără afiliere oficială cu OpenAI.
