@@ -10,4 +10,8 @@ Poți folosi și un chat obișnuit: lipește instrucțiunile și atașează bibl
 
 Nu sunt incluse corpus personal sau credențiale. Păstrează și reconciliază instrucțiunile relevante deja existente ale proiectului. Alege o singură ediție lingvistică pentru același proiect.
 
-Bază oficială de configurare, verificată la 2026-11-02: [ChatGPT Projects](https://learn.chatgpt.com/docs/projects). Instrucțiunile proiectului configurează comportamentul; biblioteca încărcată oferă workflow-urile. Încărcarea și recuperarea fișierelor în contul real și calitatea raționamentului nu au fost testate de verificările pachetului.
+Bază oficială de configurare, verificată la 2026-11-02: [ChatGPT Projects](https://learn.chatgpt.com/docs/projects). Instrucțiunile proiectului configurează comportamentul; biblioteca încărcată oferă workflow-urile. Adaptarea a fost instalată și testată într-un Project ChatGPT real la 2 noiembrie 2026. Accesul la bibliotecă și scenariile reprezentative au fost verificate în cont. Testele automate ale pachetului nu demonstrează calitatea generală a raționamentului sau funcționarea fiecărui workflow.
+
+## Scopul testului live — 2 noiembrie 2026
+
+Instrucțiunile proiectului au fost salvate și COMMANDS.md a fost încărcat în Sources. VERIFY, COMPARE și DECIDE au fost testate pe date fictive; REWRITE a cerut originalul când acesta lipsea. Acesta nu este un test individual al tuturor celor 20 de moduri. Adaptarea Claude rămâne netestată într-un cont Claude real.

@@ -1,5 +1,11 @@
 # Codex Thinking Toolkit — Română
 
+## Testat în ChatGPT Cloud
+
+Instalat și testat într-un cont ChatGPT real la **2 noiembrie 2026**, cu instrucțiuni de Project și biblioteca de comenzi încărcată. Au trecut verificările reprezentative: acces la surse, cele cinci verdicte VERIFY, creșterea 80 → 100 = 25%, NECONFIRMAT pentru o afirmație fără dovezi, comparație și recomandare condiționată în limitele bugetului, plus REWRITE fără original, care a cerut textul lipsă.
+
+Acesta este un test real al unor workflow-uri selectate, nu un benchmark al tuturor celor 20 de moduri. Adaptarea Claude nu a fost testată într-un cont Claude real. Vezi [scopul testelor](docs/CLOUD_TESTS.md).
+
 ## Variante cloud: Claude și ChatGPT
 
 | Platformă | Configurare | Pachet de încărcat |
@@ -7,7 +13,7 @@
 | Claude cloud / Claude Code | [Ghid Claude](adapters/claude/README.md) | [thinking-toolkit-ro.zip](https://github.com/bogdan1993/codex-thinking-toolkit/raw/refs/heads/main/adapters/claude/thinking-toolkit-ro.zip) |
 | ChatGPT Cloud Projects | [Ghid ChatGPT](adapters/chatgpt/README.md) | [Pachet ChatGPT](https://github.com/bogdan1993/codex-thinking-toolkit/raw/refs/heads/main/adapters/chatgpt/thinking-toolkit-ro-chatgpt.zip) |
 
-În Claude ai un skill cu 20 de moduri documentate. În ChatGPT ai instrucțiuni de proiect și biblioteca de comenzi încărcată. Pachetele cloud sunt separate de instalatorul local Codex. Citește ghidul înainte de upload; încărcarea întregului repository nu înseamnă instalare. Comportamentul în conturi reale nu a fost testat.
+În Claude ai un skill cu 20 de moduri documentate. În ChatGPT ai instrucțiuni de proiect și biblioteca de comenzi încărcată. Pachetele cloud sunt separate de instalatorul local Codex. Citește ghidul înainte de upload; încărcarea întregului repository nu înseamnă instalare. Adaptarea ChatGPT a fost testată într-un cont real; pentru Claude, testarea live rămâne neefectuată.
 
 **20 de skill-uri combinabile pentru cercetare, gândire critică, decizii, planificare și comunicare.** Fiecare comandă poate fi folosită separat sau împreună cu cele relevante pentru sarcină.
 
